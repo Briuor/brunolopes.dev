@@ -4,7 +4,7 @@ const isProd = process.env.NODE_ENV === 'production'
 
 const nextConfig = {
   reactStrictMode: true,
-  assetPrefix: isProd ? '/brunolopes.dev/' : '',
+  assetPrefix: isProd ? './' : '',
   images: {
     domains: ['github.com'],
     unoptimized: true,
