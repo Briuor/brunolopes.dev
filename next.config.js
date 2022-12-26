@@ -7,6 +7,7 @@ const nextConfig = {
   assetPrefix: isProd ? './' : '',
   images: {
     domains: ['github.com'],
+    unoptimized: true,
   },
 }
 
