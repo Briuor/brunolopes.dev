@@ -19,7 +19,7 @@ export default function Home() {
           <p>I work as a software developer freelancer and love doing open source and automating things.</p>
           <p>You can find me on&nbsp;
             <a className="link" href="https://github.com/Briuor">Github</a> and&nbsp;
-            <a className="link" href="https://www.linkedin.com/in/bruno-lopes-a64b99207/">Likendin</a>.
+            <a className="link" href="https://www.linkedin.com/in/bruno-lopes-a64b99207/">Linkedin</a>.
             Send me an <a className="link" href="mailto:contato@brunolopes.dev">email</a>.
           </p>
         </section>
